@@ -1,11 +1,11 @@
 # Site settings
 author: Patrick Harrison
-title: 
+title: First time developer.
 header-img: img/home-bg.png
 email: jahman@bellatlantic.net
 copyright_name: Patrick Harrison
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The journey begins.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jahman07104
