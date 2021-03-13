@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The differnce betweena regular function and an Arrow function."
+title:      "The difference between a regular function and an Arrow function."
 date:       2021-03-13 11:15:03 -0500
 permalink:  the_end_of_the_beginning
 ---
