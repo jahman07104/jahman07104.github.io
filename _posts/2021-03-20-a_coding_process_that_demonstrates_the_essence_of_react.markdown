@@ -1,15 +1,15 @@
 ---
 layout: post
 title:      " A Coding Process that demonstrates the essence of react"
-date:       2021-03-20 14:51:34 +0000
+date:       2021-03-20 10:51:35 -0400
 permalink:  a_coding_process_that_demonstrates_the_essence_of_react
 ---
 
 
 The task at hand is to add a search input 
-to choose a profile by name 
+to choose a profile by name. 
 In other words type the name and have that profile appear.
-The App was already built and connected to the redux store
+The App is already built and connected to the redux store
 First thing to do is decide
 where to begin..
 what component..??
